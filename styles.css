@@ -3,3 +3,13 @@ h1 {
   color: white;
   background-color: black;
 }
+
+.menu-container {
+  text-align: center;
+}
+
+.menu {
+  display: inline-block;
+  background-color: lightgrey;
+  color: white;
+}
